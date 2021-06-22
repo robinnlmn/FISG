@@ -5,6 +5,13 @@
   transform: translate(-50%, -50%);
 }
 
+#hint {
+  position: fixed;
+  left: 20%;
+  top: 90%;
+  transform: translate(-80%, -10%);
+}
+
 #body {
   height: 100%;
   width: 100%;
